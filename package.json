@@ -4,7 +4,7 @@
   "description": "aula babel",
   "main": "index.js",
   "scripts": {
-      "build": "babel src -d public"
+      "build": "babel src -d public --wach"
   },
   "keywords": [
     "aula",
